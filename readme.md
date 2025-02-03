@@ -1,15 +1,8 @@
-Sigle Page Application
-Nav - Home, About, Gallery, Register, Login
-Title
-Description/tagline
-About us - what we do, vision, mission
-Timeline - start, events, workshops
-Events - Upcoming - Xen4.0, IOT Hackathon, Alumni talks, FY-SY Orientation
-Projects - 
-Newsletter and publication 
-Our Team and Alumni
-Footer - Logo, Social media handles, Contact
+# React + Vite
 
-Responsiveness
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Tech Stack --> MERN
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
