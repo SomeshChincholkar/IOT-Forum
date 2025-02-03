@@ -8,7 +8,7 @@ const products = [
   { id: 4, name: 'Circuit Board Mousepad', price: 15, image: '/placeholder.svg?height=200&width=200' },
 ];
 
-export default function MerchandiseSection() {
+export default function Merchandise() {
   const [selectedProduct, setSelectedProduct] = useState(null);
 
   return (

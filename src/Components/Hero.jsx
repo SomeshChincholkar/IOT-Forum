@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom';
-import CircuitAnimation from './circuit-animation';
+import CircuitAnimation from './CircuitAnimation';
 import logo from '../assets/IOT_LOGO.png'
 
-export default function HeroSection() {
+export default function Hero() {
   return (
     <div id="home" className="relative min-h-screen flex items-center justify-center bg-gradient-to-br from-[#000510] via-[#001233] to-[#001845] scroll-mt-16 overflow-hidden pt-20">
       {/* 3D Background */}

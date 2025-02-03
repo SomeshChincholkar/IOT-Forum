@@ -1,4 +1,4 @@
-export default function ProjectsSection() {
+export default function Projects() {
   const projects = [
     {
       title: "Smart Home Automation",

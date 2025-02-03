@@ -1,4 +1,4 @@
-export default function AboutSection() {
+export default function About() {
   const stats = [
     { number: "500+", label: "Active Members" },
     { number: "50+", label: "Projects Completed" },

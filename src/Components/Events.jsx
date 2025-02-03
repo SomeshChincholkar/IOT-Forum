@@ -1,4 +1,4 @@
-export default function EventsSection() {
+export default function Events() {
   const events = [
     {
       date: "December 15, 2023",

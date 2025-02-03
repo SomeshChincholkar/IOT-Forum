@@ -1,4 +1,4 @@
-export default function TeamSection() {
+export default function Team() {
   const team = [
     {
       role: "Technical Lead",
