@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4rem;
+}
+
+.card-hover {
+  @apply transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl;
+}
+
+/* Apply hover effect to all cards */
+.bg-gray-800 {
+  @apply transition-all duration-300 ease-in-out;
+}
+
+.bg-gray-800:hover {
+  @apply transform hover:scale-105 hover:shadow-xl;
+}
+
+/* Smooth transitions for all interactive elements */
+button, a {
+  @apply transition-all duration-300 ease-in-out;
+}
+
